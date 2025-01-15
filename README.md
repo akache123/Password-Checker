@@ -11,7 +11,7 @@ A Python script to evaluate the strength of a password based on length, complexi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/password-strength-checker.git](https://github.com/akache123/Password-Checker)
+   git clone https://github.com/akache123/Password-Checker
    cd password-strength-checker
 Ensure Python 3 is installed on your machine.
 Usage
